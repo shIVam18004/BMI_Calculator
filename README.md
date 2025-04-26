@@ -11,7 +11,7 @@ This tool calculates BMI based on user's height, weight, age, and gender, then c
 
 ## 📸 Screenshot
 
-![BMI Calculator Screenshot](https://github.com/shIVam18004/BMI_Calculator/blob/main/bmi_calculator.png)
+![BMI Calculator Screenshot](https://github.com/shIVam18004/BMI_Calculator/blob/main/BMI_cal.png)
 
 ---
 
